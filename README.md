@@ -106,4 +106,4 @@ jupyter notebook notebook/co2_EDA.ipynb
 
 ## Dataset Source
 
-World Bank — CO₂ emissions (kt) per capita, available on [Kaggle](https://www.kaggle.com/).
+World Bank — CO₂ emissions (kt) per capita, available on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/koustavghosh149/co2-emission-around-the-world?resource=download)).
